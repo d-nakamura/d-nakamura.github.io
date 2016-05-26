@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-金融系SE5年目。
-あさーくせまーい知識で毎日にこにこ炎上中。
+金融系SE5年目。<Br>
+あさーくせまーい知識で毎日にこにこ炎上中。<Br>
 夢はイーグルになること。
 
 ### More Information

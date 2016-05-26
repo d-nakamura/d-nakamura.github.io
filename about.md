@@ -10,7 +10,9 @@ permalink: /about/
 
 ### More Information
 
-『超高速開発』をテーマに、従来開発を比較対象にした技術情報を残していきたいと思っています。
+『超高速開発』をテーマに、従来開発を比較対象にした技術情報を残していきたいと思っています。<Br><Br>
+
+The theme of "ultra-high-speed development", I would like to leave the technical information.
 
 ### Contact me
 
